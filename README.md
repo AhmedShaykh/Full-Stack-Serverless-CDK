@@ -1,4 +1,4 @@
-# Learn Full Stack Serverless Apps and API Development with CDK in Baby Steps
+# Learn Full Stack Serverless Apps and API Development with CDK in Baby Steps!
 
 [This Repo is part of the reading material for Panacloud Bootcamp 2020](https://panacloud.github.io/bootcamp-2020/)
 
