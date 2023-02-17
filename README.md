@@ -353,5 +353,3 @@ Alternatives
 ## CDK Construction Zone: For Advanced CDK Users Directly From the CDK Team
 
 [CDK construction zone | S1 Ep 1](https://m.twitch.tv/videos/916591005)
-
-
